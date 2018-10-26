@@ -43,3 +43,21 @@
      id="ghscreenshot"
      />
 
+--
+
+# Other contributions: Improve test coverage
+
+<img src="images/tips/twine-coverage.png"
+     alt="Codecov UI for twine"
+     id="ghscreenshot"
+     />
+
+--
+
+# Other contributions: Read the documentation
+
+<img src="images/tips/easy-install-docs.png"
+     alt="Malformed restructured text on documentation"
+     id="ghscreenshot"
+     />
+
