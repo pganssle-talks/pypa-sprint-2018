@@ -38,7 +38,57 @@ Resolving deltas: 100% (190/190), done.
 
 --
 
-## Make a branch and push it to origin
+## Make a branch
+
+
+```bash
+$ git checkout -b add_pr_slide
+```
+
+
+--
+
+## Add your commits
+
+<img src="images/make-pr/git-status-00-pre.png"
+     alt="Showing the output of git status before the change is staged"
+     id="ghscreenshot"
+     />
+
+
+```bash
+$ git add _posts/0000-06-25-making-a-pr.md
+```
+
+**OR**
+
+```bash
+$ git add -u
+```
+
+<img src="images/make-pr/git-status-01-post.png"
+     alt="Showing the output of git status after the change is staged"
+     id="ghscreenshot"
+     /> <fragment/>
+
+--
+
+## Make a commit
+
+<!-- .slide: style="pre { width: 750px; }" -->
+
+```bash
+$ git commit
+```
+
+<img src="images/make-pr/git-commit-message.png"
+     alt="Showing the output of git status after the change is staged"
+     id="ghscreenshot"
+     />
+
+--
+
+## Push your changes to origin
 
 ```bash
 $ git push --set-upstream origin add_pr_slide
