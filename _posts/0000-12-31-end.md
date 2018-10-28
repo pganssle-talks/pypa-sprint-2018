@@ -1,7 +1,7 @@
 # Useful Information
 
 - Github: https://github.com/pypa
-- Etherpad: https://etherpad.net/p/Bloomberg_PyPA_Sprint_2018
+- Shared note: https://hackmd.io/JugBUcU6QdCR8QK9fTBfug
 - Project board: https://github.com/orgs/pypa/projects/1
 
 <br/>
